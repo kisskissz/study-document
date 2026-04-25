@@ -1,0 +1,9 @@
+1.安装virtualbox
+2.在virtualbox安装ubuntu18（中文语言、磁盘容量60G以上，CPU设置为4个以上，内存设置4096MB以上），并且全屏显示，能够设置共享文件夹，能够挂载U盘，能够拖放文件。
+3.在Ubuntu系统安装搜狗输入法
+4.ubuntu系统源替换为中科大源
+5.在windows系统使用MobaXterm软件远程登录ubuntu18
+6.在ubuntu18系统安装qt
+7.开发一个Qt界面程序，并且能开机启动运行。
+8.熟悉常见通信方式串口、UDP、TCP，分别在windows系统和UBUNTU系统开发一个UDP/TCP通信界面软件，要求能够相互首发数据并显示。
+9.熟悉常用linux指令:cp mv rm ls cd pwd touch mkdir cat ifconfig  
